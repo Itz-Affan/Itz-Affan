@@ -19,9 +19,15 @@
 
 > Just getting started, but deep in the dev game. Ratings aren't final. 😉
 
-![Affan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itz-Affan&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itz-Affan&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itz-Affan&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Affan&theme=tokyonight" />
+  </a>
+</p>
 
 ### 🏆 GitHub Trophies
 
