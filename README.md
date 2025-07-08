@@ -23,7 +23,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itz-Affan&theme=tokyonight)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Affan&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 
 ---
