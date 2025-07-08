@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Rating-B--%20🔥-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub%20Rating-C--%20🔧-orange?style=flat-square" />
   <br />
-  <i>Climbing higher, one commit at a time.</i>
+  <i>Not there yet — but the grind is on. 🔁</i>
 </p>
