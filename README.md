@@ -25,9 +25,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Affan&layout=compact&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itz-Affan&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 ---
 
