@@ -23,7 +23,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itz-Affan&theme=tokyonight)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Itz-Affan&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Itz-Affan&theme=tokyonight&margin-w=15" />
+</p>
 
 ---
 
