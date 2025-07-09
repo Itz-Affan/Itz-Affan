@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Affan&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com/?user=Itz-Affan&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
